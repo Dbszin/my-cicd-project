@@ -6,13 +6,15 @@
     "test": "jest"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage",
+    "lint": "eslint src/"
   },
   "keywords": [],
   "author": "Dbszin",
   "license": "ISC",
   "description": "Projeto para melhor entendimento de fundamentos de CI/CD",
   "devDependencies": {
+    "eslint": "^10.8.0",
     "jest": "^30.4.2"
   }
 }
