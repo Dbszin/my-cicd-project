@@ -1,0 +1,18 @@
+{
+  "name": "my-cicd-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Dbszin",
+  "license": "ISC",
+  "description": "Projeto para melhor entendimento de fundamentos de CI/CD",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
